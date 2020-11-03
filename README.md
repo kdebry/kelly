@@ -1,0 +1,2 @@
+# kelly
+Kelly Criterion Application
